@@ -1,0 +1,9 @@
+# Composer
+/vendor
+
+# Tests
+/tests/tmp
+/tests/**/*.log
+/tests/**/*.html
+/tests/**/*.expected
+/tests/**/*.actual
